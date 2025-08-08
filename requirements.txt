@@ -2,7 +2,7 @@
 fastapi==0.104.1
 uvicorn==0.24.0
 langchain==0.1.0
-langchain-google-genai==1.0.0
+langchain-google-genai==1.0.1
 langchain-community==0.0.10
 pypdf==3.17.4
 faiss-cpu==1.7.4
@@ -10,3 +10,4 @@ pydantic==2.5.0
 requests==2.31.0
 python-dotenv==1.0.0
 gunicorn==21.2.0
+python-multipart==0.0.6
